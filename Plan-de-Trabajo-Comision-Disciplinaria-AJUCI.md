@@ -93,6 +93,42 @@ Garantizar el cumplimiento de los deberes y la conducta etica del cuerpo de juzg
 | Remision a Comision de Capacitacion | Enviar el informe con recomendaciones de temas a reforzar para que la Comision de Capacitacion incluya a esas personas en un plan de mejora | Presidente/a de la Comision |
 | Seguimiento | Verificar que los miembros identificados participen en las capacitaciones y evaluar si hay mejora en eventos posteriores | Comision Disciplinaria |
 
+### Linea 6: Auditoria de nombramientos
+
+**Objetivo:** Llevar estadisticas de los nombramientos del cuerpo de juzgamiento para verificar la equidad en las designaciones y detectar posibles concentraciones.
+
+**Fase 1: Registro de nombramientos (inmediata)**
+
+| Actividad | Descripcion | Responsable |
+|-----------|-------------|-------------|
+| Creacion del formulario de registro | Google Forms para registrar los nombramientos de cada evento (se llena cada vez que se recibe la notificacion por WhatsApp) | Comision Disciplinaria |
+| Registro de datos historicos | Consolidar los nombramientos del ultimo ano a partir de los mensajes de WhatsApp disponibles | Comision Disciplinaria |
+| Registro continuo | Cada vez que se notifique un nombramiento, registrarlo en el formulario | Comision Disciplinaria |
+| Analisis de estadisticas | Generar reportes de frecuencia de nombramiento por persona, concentracion, distribucion por rol | Comision Disciplinaria |
+| Informe a JD | Incluir estadisticas de nombramientos en el informe trimestral | Presidente/a de la Comision |
+
+**Datos a registrar por evento:**
+- Fecha del evento
+- Nombre del evento
+- Modalidad (Ruta/MTB/Pista/CRI/BMX/Otro)
+- Nombre del miembro nombrado
+- Rol asignado (Comisario principal / Comisario / Juez de llegada / Juez de salida / Cronometrista / Otro)
+
+**Indicadores que se generaran:**
+- Total de nombramientos por persona (acumulado)
+- Promedio de eventos por persona por mes
+- Porcentaje de participacion de cada miembro respecto al total
+- Identificacion de concentracion (personas con mas nombramientos vs. el promedio)
+- Distribucion por rol (quien siempre tiene el mismo rol)
+
+**Fase 2: Cruce con disponibilidad (pendiente de acceso)**
+
+| Actividad | Descripcion | Responsable |
+|-----------|-------------|-------------|
+| Solicitud formal de acceso | Solicitar a la Junta Directiva de AJUCI acceso al registro de disponibilidad que maneja la Comision de Nombramientos | Presidente/a de la Comision |
+| Integracion de datos | Una vez obtenido el acceso, cruzar disponibilidad vs. nombramientos para identificar miembros excluidos | Comision Disciplinaria |
+| Informe de equidad | Generar reporte de quienes estuvieron disponibles pero no fueron nombrados, con frecuencia | Comision Disciplinaria |
+
 ---
 
 ## 4. CRONOGRAMA
@@ -162,6 +198,8 @@ Garantizar el cumplimiento de los deberes y la conducta etica del cuerpo de juzg
 | Numero de propuestas normativas presentadas | Al menos 1 por semestre | Semestral |
 | Numero de capacitaciones propuestas | Al menos 1 por semestre | Semestral |
 | Miembros remitidos a Comision de Capacitacion | Segun necesidad | Trimestral |
+| Indice de concentracion de nombramientos | Que ningun miembro supere el 25% del total de nombramientos | Trimestral |
+| Registro de nombramientos completado | 100% de eventos registrados | Mensual |
 
 ---
 
@@ -193,7 +231,8 @@ La Comision Disciplinaria presentara a la Junta Directiva de AJUCI un informe tr
 | Protocolo de Atencion de Denuncias aprobado | Semana 4 |
 | Tabla de faltas y sanciones consolidada | Semana 4 |
 | Comunicacion oficial a la comunidad | Semana 6 |
-| Primer informe trimestral a JD | Mes 4 |
+| Formulario de registro de nombramientos activo | Semana 3 |
+| Consolidacion de datos historicos (ultimo ano) | Semana 4-6 |
 
 ---
 
