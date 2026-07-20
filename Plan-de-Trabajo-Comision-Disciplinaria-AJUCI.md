@@ -34,7 +34,7 @@ Garantizar el cumplimiento de los deberes y la conducta etica del cuerpo de juzg
    - Evaluacion del equipo de juzgamiento por parte del comisario principal del evento.
 4. Generar informes periodicos a la Junta Directiva de AJUCI sobre el estado de los casos y el desempeno del cuerpo de juzgamiento.
 5. Proponer reformas o actualizaciones al marco normativo vigente cuando se identifiquen vacios.
-6. Promover la capacitacion y el desarrollo profesional del cuerpo de juzgamiento.
+6. Coordinar con la Comision de Capacitacion para generar un plan de mejora dirigido a los miembros del cuerpo de juzgamiento que obtengan evaluaciones bajas o reiteradas observaciones.
 
 ---
 
@@ -84,13 +84,14 @@ Garantizar el cumplimiento de los deberes y la conducta etica del cuerpo de juzg
 | Elaboracion de propuestas | Redactar propuestas de reforma al Reglamento Disciplinario o al Protocolo | Comision |
 | Presentacion a JD | Enviar propuestas formales a la Junta Directiva de AJUCI para su aprobacion | Presidente/a de la Comision |
 
-### Linea 5: Capacitacion y mejora continua
+### Linea 5: Coordinacion con Comision de Capacitacion
 
 | Actividad | Descripcion | Responsable |
 |-----------|-------------|-------------|
-| Identificacion de necesidades | A partir de las evaluaciones, detectar areas de mejora del cuerpo de juzgamiento | Comision |
-| Propuesta de capacitaciones | Sugerir al Comite de Nombramientos temas de actualizacion o refuerzo | Comision |
-| Seguimiento | Verificar que las capacitaciones se realicen y evaluar su impacto | Comision |
+| Identificacion de miembros con evaluaciones bajas | A partir de las evaluaciones, detectar quienes obtienen calificaciones por debajo de 3 (escala 1-5) o tienen observaciones reiteradas | Comision Disciplinaria |
+| Elaboracion de informe de mejora | Documentar las areas deficientes de cada miembro identificado con base en evaluaciones y denuncias | Comision Disciplinaria |
+| Remision a Comision de Capacitacion | Enviar el informe con recomendaciones de temas a reforzar para que la Comision de Capacitacion incluya a esas personas en un plan de mejora | Presidente/a de la Comision |
+| Seguimiento | Verificar que los miembros identificados participen en las capacitaciones y evaluar si hay mejora en eventos posteriores | Comision Disciplinaria |
 
 ---
 
@@ -160,6 +161,7 @@ Garantizar el cumplimiento de los deberes y la conducta etica del cuerpo de juzg
 | Promedio de calificacion de organizadores | 3.5 o mas (escala 1-5) | Trimestral |
 | Numero de propuestas normativas presentadas | Al menos 1 por semestre | Semestral |
 | Numero de capacitaciones propuestas | Al menos 1 por semestre | Semestral |
+| Miembros remitidos a Comision de Capacitacion | Segun necesidad | Trimestral |
 
 ---
 
@@ -176,6 +178,7 @@ La Comision Disciplinaria presentara a la Junta Directiva de AJUCI un informe tr
 7. Identificacion de patrones o problemas recurrentes.
 8. Propuestas de mejora o reforma normativa (si las hay).
 9. Propuestas de capacitacion (si las hay).
+10. Miembros remitidos a la Comision de Capacitacion y motivos.
 
 ---
 
