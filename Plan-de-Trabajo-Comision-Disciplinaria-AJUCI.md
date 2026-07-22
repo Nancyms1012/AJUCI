@@ -13,6 +13,10 @@ El presente plan de trabajo establece los objetivos, actividades y cronograma pa
 
 **Miembros:** 3 integrantes
 **Correo oficial:** comdisc.ajuci@gmail.com
+**Sub-correos:**
+- Denuncias: comdisc.ajuci+denuncia@gmail.com
+- Evaluacion del juzgamiento (para organizadores): comdisc.ajuci+juzgamiento@gmail.com
+- Evaluacion del organizador (para personal de juzgamiento): comdisc.ajuci+organizador@gmail.com
 **Reuniones:** Semanales
 **Presupuesto:** Voluntario (sin presupuesto asignado)
 
@@ -44,7 +48,7 @@ Garantizar el cumplimiento de los deberes y la conducta etica del cuerpo de juzg
 
 | Actividad | Descripcion | Responsable |
 |-----------|-------------|-------------|
-| Activacion del correo oficial | Configurar comdisc.ajuci@gmail.com con respuesta automatica y firma institucional | Comision |
+| Activacion del correo oficial | Configurar comdisc.ajuci@gmail.com con sub-correos (+denuncia, +juzgamiento, +organizador), filtros, plantillas de respuesta automatica y firma institucional | Comision |
 | Creacion del formulario de denuncia | Google Forms con campos requeridos para formalizar denuncias | Comision |
 | Automatizacion del sistema | Apps Script para asignacion de numero de caso y acuse de recibo automatico | Comision |
 | Creacion del registro de casos | Google Sheets vinculado al formulario con columnas de seguimiento | Comision |
@@ -179,6 +183,9 @@ Garantizar el cumplimiento de los deberes y la conducta etica del cuerpo de juzg
 | Herramienta | Uso |
 |-------------|-----|
 | Gmail (comdisc.ajuci@gmail.com) | Canal oficial de comunicacion |
+| Sub-correo: comdisc.ajuci+denuncia@gmail.com | Recepcion de denuncias |
+| Sub-correo: comdisc.ajuci+juzgamiento@gmail.com | Evaluacion del juzgamiento (para organizadores) |
+| Sub-correo: comdisc.ajuci+organizador@gmail.com | Evaluacion del organizador (para personal de juzgamiento) |
 | Google Forms | Formulario de denuncia + 3 formularios de evaluacion |
 | Google Sheets | Registro de casos + registro de evaluaciones |
 | Apps Script | Automatizacion de numero de caso y acuse de recibo |
