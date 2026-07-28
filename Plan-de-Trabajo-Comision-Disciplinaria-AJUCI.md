@@ -207,7 +207,7 @@ Garantizar el cumplimiento de los deberes y la conducta etica del cuerpo de juzg
 | Numero de propuestas normativas presentadas | Al menos 1 por semestre | Semestral |
 | Numero de capacitaciones propuestas | Al menos 1 por semestre | Semestral |
 | Miembros remitidos a Comision de Capacitacion | Segun necesidad | Trimestral |
-| Indice de concentracion de nombramientos | Que ningun miembro supere el 25% del total de nombramientos | Trimestral |
+| Indice de concentracion de nombramientos | Que ningun miembro supere el 50% del total de nombramientos | Trimestral |
 | Registro de nombramientos completado | 100% de eventos registrados | Mensual |
 
 ---
