@@ -10,6 +10,7 @@
 1. Reglamento del Regimen Disciplinario de la FECOCI (aprobado en Asamblea General Extraordinaria, 11 de setiembre de 2014)
 2. Protocolo de cronometristas, jueces y comisarios de ciclismo - FECOCI (Sesion Extraordinaria No. 75, 18 de junio de 2024)
 3. Formulario de denuncia - Comision Disciplinaria AJUCI
+4. Reglamento de Regimen de Funcionamiento del Comite Tecnico de Arbitros - Real Federacion Espanola de Ciclismo (version 8.04.26) - como referencia internacional
 
 ---
 
@@ -38,7 +39,7 @@
 
 | # | Falta | Fuente | Sancion segun reglamento |
 |---|-------|--------|--------------------------|
-| 1 | Realizar funciones de arbitraje en una prueba en la que participen familiares directos. | Reglamento Disciplinario FECOCI Art. 18, 2 a) | Suspension de licencia o inhabilitacion temporal de un mes y un dia a un ano (Art. 22) |
+| 1 | Realizar funciones de arbitraje en una prueba en la que participen familiares directos (hasta 3er grado de consanguinidad o afinidad). | Reglamento Disciplinario FECOCI Art. 18, 2 a) / Referencia: CTA RFEC Art. 40 | Suspension de licencia o inhabilitacion temporal de un mes y un dia a un ano (Art. 22) |
 | 2 | Permitir la participacion en una prueba de competicion de personas que no esten en posesion de la correspondiente licencia. | Reglamento Disciplinario FECOCI Art. 18, 2 b) | Misma escala de faltas graves (Art. 22) |
 | 3 | Dar la salida a una prueba sin la asistencia del servicio de orden publico o servicios medicos reglamentarios. | Reglamento Disciplinario FECOCI Art. 18, 2 c) | Misma escala de faltas graves (Art. 22) |
 | 4 | No aceptar una reclamacion reglamentariamente presentada. | Reglamento Disciplinario FECOCI Art. 18, 2 d) | Misma escala de faltas graves (Art. 22) |
@@ -50,7 +51,7 @@
 | 10 | Negarse a dirigir un evento sin causa de fuerza mayor. | Protocolo FECOCI Art. 7 | No estipulada especificamente (aplicar Art. 22 por analogia) |
 | 11 | Trato irrespetuoso (insultos y ofensas). | Formulario de denuncia / Reglamento FECOCI Art. 18 a) falta comun grave | Misma escala de faltas graves (Art. 22) |
 | 12 | Parcialidad o favoritismo en decisiones durante la competencia. | Formulario de denuncia | No estipulada en reglamentos |
-| 13 | Conflicto de interes no declarado. | Formulario de denuncia (relacionado con Art. 18, 2 a) sobre familiares) | No estipulada especificamente |
+| 13 | Conflicto de interes no declarado: realizar funciones arbitrales en pruebas en las que se es colaborador o miembro de la organizacion, o en las que participen corredores o equipos con los cuales se mantengan intereses economicos de forma directa o indirecta (manager, representante, asesor, medico, preparador fisico, etc.). | Formulario de denuncia / Reglamento FECOCI Art. 18, 2 a) / Referencia: CTA RFEC Art. 40 | No estipulada especificamente (aplicar Art. 22 por analogia) |
 | 14 | Conducta inapropiada fuera de la competencia que afecte la imagen del cuerpo de juzgamiento. | Formulario de denuncia / Reglamento FECOCI Art. 18 e) falta comun grave: Los actos notorios y publicos que atenten al decoro o dignidad deportiva. | Misma escala de faltas graves (Art. 22) |
 | 15 | Incumplimiento de funciones (no aplicar reglamento, no cumplir con funciones asignadas). | Formulario de denuncia / Reglamento FECOCI Art. 18, 2 f) | Misma escala de faltas graves (Art. 22) |
 
@@ -113,7 +114,7 @@ Las siguientes faltas incluidas en el formulario de denuncia NO tienen clasifica
 | Falta | Clasificacion propuesta | Observacion |
 |-------|------------------------|-------------|
 | Parcialidad o favoritismo en decisiones | Grave | Podria relacionarse con Art. 17, 1 a) si implica abuso de autoridad |
-| Conflicto de interes no declarado | Grave | Podria relacionarse con Art. 18, 2 a) sobre familiares directos |
+| Conflicto de interes no declarado | Grave | Incluye: familiares hasta 3er grado, ser colaborador/miembro de la organizacion, o mantener intereses economicos con corredores/equipos participantes. Referencia: CTA RFEC Art. 40 |
 | Acoso | Muy grave | No existe en reglamentos FECOCI. Se recomienda proponer inclusion en reforma |
 
 **Nota:** La clasificacion "propuesta" no tiene fundamento legal actual. Se recomienda a la Comision Disciplinaria proponer a la Junta Directiva de FECOCI la inclusion de estas faltas en una futura reforma del Reglamento Disciplinario.
