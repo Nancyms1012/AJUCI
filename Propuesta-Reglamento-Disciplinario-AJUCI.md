@@ -65,66 +65,132 @@ Las faltas se clasifican en:
 
 Se consideran faltas leves:
 
-a) Impuntualidad injustificada en la llegada al evento para el cual fue designado.
-(Fundamento: Protocolo FECOCI Art. 10 inciso g - "Llegar a las competiciones a la hora a la que sea convocado.")
+a) No verificar la inscripción de una prueba, o verificarla incorrectamente.
+(Fundamento: Reglamento Disciplinario FECOCI Art. 20, 2° a)
 
-b) No portar el uniforme oficial completo o portarlo en estado inadecuado durante un evento.
-(Fundamento: Protocolo FECOCI Art. 10 inciso f - "Utilizar el uniforme oficial que en cada momento tenga determinado el Comité de Nombramientos en todas aquellas pruebas para las que sea designado, manteniéndolo en un estado de uso adecuado.")
+b) Impuntualidad injustificada en la llegada al evento para el cual fue designado.
+(Fundamento: Reglamento Disciplinario FECOCI Art. 20, 2° b) / Protocolo FECOCI Art. 10 inciso g)
 
-c) No entregar el informe de la prueba dentro del plazo de 3 días hábiles posterior a la finalización de la competición (primera vez).
-(Fundamento: Protocolo FECOCI Art. 10 inciso h - "Aportar los informes médicos, sanciones, informe de la prueba y otros detalles relevantes de una competición en el plazo máximo de 3 días hábiles con posterioridad a la finalización de la misma.")
+c) No dar la salida de una prueba a la hora prefijada, sin causa que lo justifique.
+(Fundamento: Reglamento Disciplinario FECOCI Art. 20, 2° c)
 
-d) Inasistencia injustificada a una reunión o curso convocado por el Comité de Nombramientos o la Federación (primera vez).
-(Fundamento: Protocolo FECOCI Art. 10 inciso e - "Asistir a las reuniones o cursos para las que sea convocado por el Comité de Nombramientos o por la Federación.")
+d) No comunicar a los directores las modificaciones que por causa de fuerza mayor se hayan efectuado en el recorrido o en el reglamento particular de una prueba.
+(Fundamento: Reglamento Disciplinario FECOCI Art. 20, 2° d)
+
+e) No enviar el acta de una prueba en el plazo de cuatro días hábiles, con posterioridad a la finalización de la misma.
+(Fundamento: Reglamento Disciplinario FECOCI Art. 20, 2° e) / Protocolo FECOCI Art. 10 inciso h)
+
+f) Enviar el acta de una prueba de modo incompleto o ilegible.
+(Fundamento: Reglamento Disciplinario FECOCI Art. 20, 2° f)
+
+g) Arbitrar una prueba sin haber sido designado por el ente encargado de los nombramientos.
+(Fundamento: Reglamento Disciplinario FECOCI Art. 20, 2° g)
+
+h) No adelantar las clasificaciones diarias o generales de una prueba, cuando así le sea exigido por el comité organizador.
+(Fundamento: Reglamento Disciplinario FECOCI Art. 20, 2° h)
+
+i) No asistir a los cursos o reuniones a los que sea convocado por los organizadores, AJUCI o la FECOCI.
+(Fundamento: Reglamento Disciplinario FECOCI Art. 20, 2° i) / Protocolo FECOCI Art. 10 inciso e)
+
+j) No portar el uniforme oficial completo o portarlo en estado inadecuado durante un evento.
+(Fundamento: Protocolo FECOCI Art. 10 inciso f)
 
 ### Artículo 7: Faltas graves
 
 Se consideran faltas graves:
 
-a) Reincidencia en tres o más faltas leves dentro de un mismo año calendario.
+a) Realizar funciones de arbitraje en una prueba en la que participen familiares directos (hasta 3er grado de consanguinidad o afinidad).
+(Fundamento: Reglamento Disciplinario FECOCI Art. 18, 2° a) / Referencia: CTA RFEC Art. 40)
 
-b) Negarse a dirigir un evento para el cual fue designado sin que concurran causas de fuerza mayor debidamente justificadas.
-(Fundamento: Protocolo FECOCI Art. 7 - "La designación de los árbitros para dirigir competiciones ciclistas avaladas por la Federación no estará limitada por recusaciones ni condiciones de cualquier clase, y los que fueren designados no podrán abstenerse de dirigir la competición de la que se trate salvo que concurran causas de fuerza mayor que serán valoradas en su caso por el Comité de Nombramientos.")
+b) Permitir la participación en una prueba de competición de personas que no estén en posesión de la correspondiente licencia.
+(Fundamento: Reglamento Disciplinario FECOCI Art. 18, 2° b)
 
-c) Incumplimiento reiterado de la obligación de entregar informes de prueba en el plazo establecido (tres o más veces en un año).
-(Fundamento: Protocolo FECOCI Art. 10 inciso h)
+c) Dar la salida a una prueba sin la asistencia del servicio de orden público o servicios médicos reglamentarios.
+(Fundamento: Reglamento Disciplinario FECOCI Art. 18, 2° c)
 
-d) No verificar la inscripción de los corredores y técnicos de acuerdo con las normas reglamentarias, causando perjuicio al desarrollo del evento.
-(Fundamento: Protocolo FECOCI Art. 10 inciso c - "Verificar la inscripción de los corredores y técnicos de acuerdo con las normas reglamentarias.")
+d) No aceptar una reclamación reglamentariamente presentada.
+(Fundamento: Reglamento Disciplinario FECOCI Art. 18, 2° d)
 
-e) Desconocimiento manifiesto de los estatutos y la normativa técnico-deportiva que afecte el resultado o desarrollo de un evento.
-(Fundamento: Protocolo FECOCI Art. 10 inciso d - "Conocer, cumplir y hacer cumplir los estatutos y la normativa técnico-deportiva.")
+e) No asistir a la reunión, previa a las pruebas, con los directores deportivos y organización.
+(Fundamento: Reglamento Disciplinario FECOCI Art. 18, 2° e)
 
-f) No someterse a la disciplina de la Federación y del Comité de Nombramientos.
-(Fundamento: Protocolo FECOCI Art. 10 inciso a - "Someterse a la disciplina de la Federación y del Comité de Nombramientos.")
+f) No cumplir con los cometidos que le han sido encomendados en razón de su cargo en carrera, salvo causa justificativa.
+(Fundamento: Reglamento Disciplinario FECOCI Art. 18, 2° f)
 
-g) Incumplir el deber de actuar con actitud decorosa y ética en el ejercicio de sus funciones.
-(Fundamento: Protocolo FECOCI Art. 10 inciso b - "cumpliendo su cometido con una actitud decorosa y ética.")
+g) Ausentarse de una carrera, una vez finalizada esta, sin esperar el reglamentario plazo de reclamaciones.
+(Fundamento: Reglamento Disciplinario FECOCI Art. 18, 2° g)
+
+h) Aplicar tarifas de arbitraje, dietas o desplazamiento superiores a las aprobadas por la FECOCI.
+(Fundamento: Reglamento Disciplinario FECOCI Art. 18, 2° h)
+
+i) No utilizar el uniforme oficial establecido por el Comité u organizador, que le ha designado para la prueba en la que actúa.
+(Fundamento: Reglamento Disciplinario FECOCI Art. 18, 2° i)
+
+j) Negarse a dirigir un evento para el cual fue designado sin que concurran causas de fuerza mayor debidamente justificadas.
+(Fundamento: Protocolo FECOCI Art. 7)
+
+k) Trato irrespetuoso, insultos y ofensas a jueces, deportistas, dirigentes y demás autoridades deportivas.
+(Fundamento: Reglamento Disciplinario FECOCI Art. 18 a) falta común grave)
+
+l) Parcialidad o favoritismo en decisiones durante la competencia.
+(Fuente: Formulario de denuncia - Comisión Disciplinaria AJUCI)
+
+m) Conflicto de interés no declarado: realizar funciones arbitrales en pruebas en las que se es colaborador o miembro de la organización, o en las que participen corredores o equipos con los cuales se mantengan intereses económicos de forma directa o indirecta (manager, representante, asesor, médico, preparador físico, etc.).
+(Fundamento: Reglamento Disciplinario FECOCI Art. 18, 2° a) / Referencia: CTA RFEC Art. 40)
+
+n) Conducta inapropiada fuera de la competencia que afecte la imagen del cuerpo de juzgamiento. Actos notorios y públicos que atenten al decoro o dignidad deportiva.
+(Fundamento: Reglamento Disciplinario FECOCI Art. 18 e) falta común grave)
+
+o) Reincidencia en tres o más faltas leves dentro de un mismo año calendario.
+
+p) Incumplimiento reiterado de la obligación de entregar informes de prueba en el plazo establecido (tres o más veces en un año).
+(Fundamento: Reglamento Disciplinario FECOCI Art. 20, 2° e) / Protocolo FECOCI Art. 10 inciso h)
+
+q) Desconocimiento manifiesto de los estatutos y la normativa técnico-deportiva que afecte el resultado o desarrollo de un evento.
+(Fundamento: Protocolo FECOCI Art. 10 inciso d)
 
 ### Artículo 8: Faltas muy graves
 
 Se consideran faltas muy graves:
 
-a) Participar en cualquier condición en eventos deportivos no avalados por la Federación (primera vez).
-(Fundamento: Protocolo FECOCI Art. 8 - "Es terminantemente prohibido a los árbitros, cronometristas, jueces y comisarios activos debidamente acreditados ante la Federación y ante AJUCI, participar en condición de corredores, miembros del personal de apoyo (staff), árbitros, cronometristas, jueces y comisarios en eventos no avalados por la Federación." y Art. 18 a)
+a) Falsear intencionadamente el acta de una carrera.
+(Fundamento: Reglamento Disciplinario FECOCI Art. 17, 2° a)
 
-b) Reincidencia en participar en eventos no avalados.
+b) No asistir a alguna prueba para la que haya sido designado por la FECOCI o la entidad encargada, salvo causa de fuerza mayor justificativa.
+(Fundamento: Reglamento Disciplinario FECOCI Art. 17, 2° b)
+
+c) Ausentarse durante el desarrollo de una prueba, sin autorización o causa que lo justifique, debidamente comprobada.
+(Fundamento: Reglamento Disciplinario FECOCI Art. 17, 2° c)
+
+d) Realizar la inspección de un control antidopaje sin atenerse al reglamento, o que el control sea declarado nulo por negligencia del inspector.
+(Fundamento: Reglamento Disciplinario FECOCI Art. 17, 2° d)
+
+e) Ejercer las funciones propias del juzgamiento del ciclismo, sin poseer licencia en vigor.
+(Fundamento: Reglamento Disciplinario FECOCI Art. 17, 2° e)
+
+f) No cumplimentar, o no enviar, el acta de una carrera.
+(Fundamento: Reglamento Disciplinario FECOCI Art. 17, 2° f)
+
+g) Participar en cualquier condición en eventos deportivos no avalados por la Federación (primera vez).
+(Fundamento: Protocolo FECOCI Art. 8 y Art. 18 a)
+
+h) Reincidencia en participar en eventos no avalados.
 (Fundamento: Protocolo FECOCI Art. 18 inciso b)
 
-c) No superar la prueba de actualización de conocimientos en segunda oportunidad.
-(Fundamento: Protocolo FECOCI Art. 16 - "Si el árbitro, cronometrista, juez o comisario no obtiene el puntaje mínimo requerido en esta segunda prueba perderá de manera definitiva su acreditación como tal.")
+i) Abuso de autoridad: actuaciones que, prevaliéndose del cargo, perjudiquen o menoscaben el desarrollo normal de la competición o del órgano al que esté afecto.
+(Fundamento: Reglamento Disciplinario FECOCI Art. 17, 1° a) falta común muy grave)
 
-d) Manipulación de resultados o decisiones técnicas de un evento.
-(Referencia: UCI Código de Ética Art. 8.1 - Caso documentado: oficiales de la Federación Búlgara sancionados por manipulación de eventos ciclistas, según comunicado de la UCI Ethics Commission.)
+j) Filtración de información confidencial: violación de secretos en asuntos que se conozcan por razón del cargo desempeñado en FECOCI o en Asociaciones Deportivas.
+(Fundamento: Reglamento Disciplinario FECOCI Art. 17, 1° f) falta común muy grave)
 
-e) Conflicto de interés no declarado que afecte la imparcialidad de las decisiones.
-(Referencia: UCI Código de Ética Art. 7.4 - Caso documentado: oficiales de la Federación Búlgara sancionados por conflicto de interés, según comunicado de la UCI Ethics Commission.)
+k) Manipulación de resultados o decisiones técnicas de un evento, o actuaciones dirigidas a predeterminar mediante precio, cohecho, intimidación o simples acuerdos el resultado de una prueba o competición.
+(Fundamento: Reglamento Disciplinario FECOCI Art. 17, 1° h) / UCI Código de Ética Art. 8.1)
 
-f) Acoso sexual o cualquier forma de abuso físico o psicológico.
-(Referencia: UCI Código de Ética Art. 6.4 y Appendix 1 Art. 2.3 - Caso documentado: Edgar Carballo Gonzalez sancionado con 1 año de suspensión por acoso sexual, según comunicado de la UCI Ethics Commission.)
+l) Acoso sexual o cualquier forma de abuso físico o psicológico.
+(Referencia: UCI Código de Ética Art. 6.4 y Appendix 1 Art. 2.3)
 
-g) Corrupción, soborno o cualquier acto que comprometa la integridad del deporte.
-(Referencia: UCI Código de Ética Art. 8.1 - Casos documentados de suspensiones de 2 a 3 años por la Comisión Disciplinaria de la UCI.)
+m) No superar la prueba de actualización de conocimientos en segunda oportunidad.
+(Fundamento: Protocolo FECOCI Art. 16)
 
 ---
 
@@ -154,32 +220,25 @@ Las faltas leves se sancionarán con:
 ### Artículo 11: Sanciones por faltas graves
 
 Las faltas graves se sancionarán con:
-- Suspensión temporal de 1 a 6 meses, según la gravedad y circunstancias.
-- En caso de falta grave del Art. 7 inciso b) (negarse a dirigir evento), se aplicará lo dispuesto por el Comité de Nombramientos conforme al Art. 7 del Protocolo de FECOCI.
+- Suspensión de licencia o inhabilitación temporal de un mes y un día a un año, según la gravedad y circunstancias.
+- Multa de dos hasta cuatro salarios base (cuando corresponda según Art. 24 del Reglamento Disciplinario FECOCI).
+(Fundamento: Reglamento Disciplinario FECOCI Art. 22)
 
 ### Artículo 12: Sanciones por faltas muy graves
 
 Las faltas muy graves se sancionarán con:
 
-a) Participación en eventos no avalados (primera vez): Suspensión de 6 meses.
-(Fundamento directo: Protocolo FECOCI Art. 18 inciso a)
+a) Inhabilitación a perpetuidad.
+b) Privación definitiva de licencia federativa.
+c) Suspensión de licencia o inhabilitación temporal de un año y un día a cuatro años.
+d) Multa de cinco a veinte salarios base (cuando corresponda).
+(Fundamento: Reglamento Disciplinario FECOCI Art. 21)
 
-b) Reincidencia en participación en eventos no avalados: Pérdida de la condición de árbitro, cronometrista, juez o comisario.
-(Fundamento directo: Protocolo FECOCI Art. 18 inciso b)
-
-c) No superar segunda prueba de conocimientos: Pérdida definitiva de la acreditación.
-(Fundamento directo: Protocolo FECOCI Art. 16)
-
-d) Manipulación de resultados, corrupción o soborno: Pérdida de la condición.
-(Referencia: UCI - suspensiones de 2 a 3 años documentadas en casos contra oficiales.)
-
-e) Conflicto de interés grave: Suspensión de 3 a 12 meses.
-(Referencia: UCI - multas y suspensiones aplicadas en caso de la Federación Búlgara.)
-
-f) Acoso sexual o abuso: Pérdida de la condición + comunicación a las autoridades competentes.
-(Referencia: UCI - suspensión de 1 año aplicada a Edgar Carballo Gonzalez.)
-
-g) Corrupción o soborno: Pérdida de la condición + comunicación a las autoridades competentes.
+Sanciones específicas:
+- Participación en eventos no avalados (primera vez): Suspensión de 6 meses (Protocolo FECOCI Art. 18 a).
+- Reincidencia en participación en eventos no avalados: Pérdida de la condición (Protocolo FECOCI Art. 18 b).
+- No superar segunda prueba de conocimientos: Pérdida definitiva de la acreditación (Protocolo FECOCI Art. 16).
+- Acoso sexual o abuso: Pérdida de la condición + comunicación a las autoridades competentes.
 
 ### Artículo 13: Circunstancias atenuantes
 
@@ -376,9 +435,11 @@ En lo no previsto por este reglamento, se aplicará supletoriamente el Protocolo
 ## REFERENCIAS NORMATIVAS
 
 1. Protocolo de árbitros, cronometristas, jueces y comisarios de ciclismo - FECOCI (aprobado en Sesión Extraordinaria No. 75, 18 de junio de 2024).
-2. UCI Reglamento Deportivo, Título XII: Disciplina y Procedimientos.
-3. UCI Código de Ética (artículos 5, 6.4, 7.4, 8.1).
-4. Decisiones publicadas por la Comisión Disciplinaria y la Comisión de Ética de la UCI (disponibles en uci.org).
+2. Reglamento del Régimen Disciplinario de la FECOCI (aprobado en Asamblea General Extraordinaria, 11 de setiembre de 2014).
+3. UCI Reglamento Deportivo, Título XII: Disciplina y Procedimientos.
+4. UCI Código de Ética (artículos 5, 6.4, 7.4, 8.1).
+5. Reglamento de Régimen de Funcionamiento del Comité Técnico de Árbitros - Real Federación Española de Ciclismo (versión 8.04.26) - como referencia internacional.
+6. Decisiones publicadas por la Comisión Disciplinaria y la Comisión de Ética de la UCI (disponibles en uci.org).
 
 ---
 
