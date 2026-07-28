@@ -222,13 +222,14 @@ Cada sub-correo tiene un filtro en Gmail que responde automaticamente con una pl
 - [x] Formulario de denuncia + Apps Script
 - [x] Formularios de evaluacion (3) + scripts
 - [x] Protocolo de Atencion de Denuncias
-- [x] Tabla de faltas consolidada
-- [x] Propuesta de Reglamento Disciplinario
-- [x] Plan de Trabajo (6 lineas)
+- [x] Tabla de faltas consolidada (actualizada con incompatibilidades CTA RFEC)
+- [x] Propuesta de Reglamento Disciplinario (actualizada con las 38 faltas completas)
+- [x] Plan de Trabajo (6 lineas, sub-correos, meta 50%)
 - [x] Tildes corregidas en Word
 - [x] Datos historicos de nombramientos consolidados
 - [x] Filtros de Gmail verificados
 - [x] Script acuse de recibo evaluacion equipo
+- [x] Presentacion ejecutiva HTML (11 slides)
 
 ### Pendientes:
 - [ ] Crear formulario evaluacion comisario principal en Google Forms (con logica condicional)
@@ -237,7 +238,7 @@ Cada sub-correo tiene un filtro en Gmail que responde automaticamente con una pl
 - [ ] Comunicar a la comunidad (organizadores, miembros, clubes)
 - [ ] Solicitar acceso al registro de disponibilidad
 - [ ] Primer informe trimestral
-- [ ] Proponer reforma Reglamento Disciplinario (agregar faltas no tipificadas)
+- [ ] Proponer reforma Reglamento Disciplinario (agregar faltas no tipificadas: parcialidad, acoso)
 - [ ] Cruce disponibilidad vs. nombramientos (Fase 2)
 
 ---
