@@ -20,7 +20,6 @@ body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background:
   page-break-after: always;
 }
 
-/* Slide styles */
 .slide-cover {
   background: linear-gradient(135deg, #0f3460 0%, #16213e 50%, #1a1a2e 100%);
   color: white;
@@ -58,9 +57,12 @@ body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background:
 }
 .slide-dark h2 { color: white; border-bottom-color: #e94560; }
 .slide-dark li::marker { color: #e94560; }
+.slide-dark ul { font-size: 1.1em; line-height: 2; margin-left: 30px; }
+.slide-dark p { font-size: 1.1em; line-height: 1.8; margin-bottom: 15px; }
 
 .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 40px; width: 100%; margin-top: 20px; }
 .grid-3 { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 30px; width: 100%; margin-top: 20px; }
+.grid-4 { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; width: 100%; margin-top: 20px; }
 
 .card {
   background: #f8f9fa;
@@ -77,6 +79,16 @@ body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background:
 .card h4, .card-dark h4 { font-size: 1.1em; color: #0f3460; margin-bottom: 10px; }
 .card-dark h4 { color: #e94560; }
 .card p, .card-dark p { font-size: 0.95em; line-height: 1.6; }
+
+.card-risk {
+  background: #f8f9fa;
+  border-radius: 12px;
+  padding: 20px;
+  border-left: 4px solid #e94560;
+  margin-bottom: 15px;
+}
+.card-risk h4 { font-size: 1em; color: #e94560; margin-bottom: 5px; }
+.card-risk p { font-size: 0.9em; line-height: 1.5; color: #555; }
 
 .number-big {
   font-size: 3em;
@@ -155,6 +167,10 @@ td {
 }
 tr:nth-child(even) { background: #f8f9fa; }
 
+.dark-table th { background: #e94560; }
+.dark-table td { color: #ddd; border-bottom: 1px solid rgba(255,255,255,0.1); }
+.dark-table tr:nth-child(even) { background: rgba(255,255,255,0.05); }
+
 @media print {
   .slide { page-break-after: always; }
 }
@@ -162,40 +178,30 @@ tr:nth-child(even) { background: #f8f9fa; }
 </head>
 <body>
 
-<!-- SLIDE 1: PORTADA -->
+<!-- SLIDE 1: PORTADA + QUIENES SOMOS (UNIFICADA) -->
 <div class="slide slide-cover">
-  <h2>ASOCIACION DE JUZGAMIENTO DE CICLISMO</h2>
+  <h2>ASOCIACION DE JUZGAMIENTO DE CICLISMO (AJUCI)</h2>
   <h1>PLAN DE TRABAJO</h1>
   <div class="divider"></div>
   <h2>Comision Disciplinaria</h2>
-  <p class="info">Federacion Costarricense de Ciclismo (FECOCI)<br>Julio 2026</p>
-</div>
-
-<!-- SLIDE 2: QUIENES SOMOS -->
-<div class="slide slide-content">
-  <h2>Quienes somos</h2>
-  <p>La Comision Disciplinaria de AJUCI es el organo encargado de velar por el cumplimiento de los deberes y la conducta etica del cuerpo de juzgamiento.</p>
-  <div class="grid-3" style="margin-top: 40px;">
+  <div style="display: flex; gap: 60px; margin-top: 50px;">
     <div style="text-align: center;">
       <span class="number-big">3</span>
       <p>Miembros</p>
     </div>
     <div style="text-align: center;">
       <span class="number-big">8</span>
-      <p>Dias habiles para resolver</p>
+      <p>Dias habiles</p>
     </div>
     <div style="text-align: center;">
       <span class="number-big">4</span>
-      <p>Canales de evaluacion</p>
+      <p>Canales</p>
     </div>
   </div>
-  <div class="highlight-box" style="margin-top: 40px;">
-    comdisc.ajuci@gmail.com
-  </div>
-  <span class="footer-slide">Comision Disciplinaria - AJUCI</span>
+  <p class="info" style="margin-top: 40px;">Federacion Costarricense de Ciclismo (FECOCI)<br>comdisc.ajuci@gmail.com<br><br>Julio 2026</p>
 </div>
 
-<!-- SLIDE 3: OBJETIVO -->
+<!-- SLIDE 2: OBJETIVO -->
 <div class="slide slide-dark">
   <h2>Objetivo General</h2>
   <p style="font-size: 1.3em; line-height: 1.8; text-align: center; max-width: 800px;">
@@ -222,7 +228,7 @@ tr:nth-child(even) { background: #f8f9fa; }
   <span class="footer-slide">Comision Disciplinaria - AJUCI</span>
 </div>
 
-<!-- SLIDE 4: 6 LINEAS DE ACCION -->
+<!-- SLIDE 3: 6 LINEAS DE ACCION -->
 <div class="slide slide-content">
   <h2>6 Lineas de Accion</h2>
   <div class="grid-2">
@@ -254,7 +260,7 @@ tr:nth-child(even) { background: #f8f9fa; }
   <span class="footer-slide">Comision Disciplinaria - AJUCI</span>
 </div>
 
-<!-- SLIDE 5: FLUJO DE DENUNCIAS -->
+<!-- SLIDE 4: FLUJO DE DENUNCIAS -->
 <div class="slide slide-content">
   <h2>Flujo de Atencion de Denuncias</h2>
   <div class="timeline">
@@ -297,7 +303,7 @@ tr:nth-child(even) { background: #f8f9fa; }
   <span class="footer-slide">Comision Disciplinaria - AJUCI</span>
 </div>
 
-<!-- SLIDE 6: SISTEMA DE EVALUACION -->
+<!-- SLIDE 5: SISTEMA DE EVALUACION -->
 <div class="slide slide-dark">
   <h2>Sistema de Evaluacion</h2>
   <p style="margin-bottom: 30px; opacity: 0.8;">Evaluacion bidireccional despues de cada evento</p>
@@ -321,7 +327,7 @@ tr:nth-child(even) { background: #f8f9fa; }
   <span class="footer-slide">Comision Disciplinaria - AJUCI</span>
 </div>
 
-<!-- SLIDE 7: AUDITORIA DE NOMBRAMIENTOS -->
+<!-- SLIDE 6: AUDITORIA DE NOMBRAMIENTOS -->
 <div class="slide slide-content">
   <h2>Auditoria de Nombramientos</h2>
   <div class="grid-2">
@@ -348,13 +354,95 @@ tr:nth-child(even) { background: #f8f9fa; }
   <span class="footer-slide">Comision Disciplinaria - AJUCI</span>
 </div>
 
-<!-- SLIDE 8: CRONOGRAMA -->
+<!-- SLIDE 7: INDICADORES DE GESTION -->
+<div class="slide slide-dark">
+  <h2>Indicadores de Gestion</h2>
+  <table class="dark-table" style="margin-top: 20px;">
+    <tr><th>Indicador</th><th>Meta</th><th>Medicion</th></tr>
+    <tr><td>Tiempo promedio de resolucion</td><td>Maximo 8 dias habiles</td><td>Trimestral</td></tr>
+    <tr><td>Casos resueltos dentro del plazo</td><td>90% o mas</td><td>Trimestral</td></tr>
+    <tr><td>Evaluaciones recibidas por evento</td><td>Al menos 1 por evento</td><td>Mensual</td></tr>
+    <tr><td>Calificacion del cuerpo de juzgamiento</td><td>3.5 o mas (escala 1-5)</td><td>Trimestral</td></tr>
+    <tr><td>Calificacion de organizadores</td><td>3.5 o mas (escala 1-5)</td><td>Trimestral</td></tr>
+    <tr><td>Propuestas normativas</td><td>Al menos 1 por semestre</td><td>Semestral</td></tr>
+    <tr><td>Concentracion de nombramientos</td><td>Ningun miembro supere 50%</td><td>Trimestral</td></tr>
+    <tr><td>Registro de nombramientos</td><td>100% eventos registrados</td><td>Mensual</td></tr>
+  </table>
+  <span class="footer-slide">Comision Disciplinaria - AJUCI</span>
+</div>
+
+<!-- SLIDE 8: INFORMES Y ENTREGABLES -->
 <div class="slide slide-content">
+  <h2>Informes y Entregables</h2>
+  <div class="grid-2">
+    <div>
+      <h3>Informe trimestral a JD</h3>
+      <ul style="font-size: 0.95em; line-height: 1.8;">
+        <li>Denuncias recibidas y resueltas</li>
+        <li>Tiempo promedio de resolucion</li>
+        <li>Resumen de evaluaciones (promedios)</li>
+        <li>Estadisticas de nombramientos</li>
+        <li>Patrones o problemas recurrentes</li>
+        <li>Propuestas de mejora o reforma</li>
+        <li>Miembros remitidos a Capacitacion</li>
+      </ul>
+    </div>
+    <div>
+      <h3>Entregables clave</h3>
+      <table>
+        <tr><th>Entregable</th><th>Fecha</th></tr>
+        <tr><td>Correo oficial configurado</td><td>Sem. 1</td></tr>
+        <tr><td>Formularios activos</td><td>Sem. 2-3</td></tr>
+        <tr><td>Protocolo aprobado</td><td>Sem. 4</td></tr>
+        <tr><td>Tabla de faltas</td><td>Sem. 4</td></tr>
+        <tr><td>Comunicacion a comunidad</td><td>Sem. 6</td></tr>
+        <tr><td>Datos historicos consolidados</td><td>Sem. 4-6</td></tr>
+        <tr><td>Primer informe trimestral</td><td>Mes 4</td></tr>
+      </table>
+    </div>
+  </div>
+  <span class="footer-slide">Comision Disciplinaria - AJUCI</span>
+</div>
+
+<!-- SLIDE 9: RIESGOS -->
+<div class="slide slide-content">
+  <h2>Riesgos y Mitigacion</h2>
+  <div class="grid-2">
+    <div>
+      <div class="card-risk">
+        <h4>Bajo volumen de denuncias</h4>
+        <p>Mitigacion: Impulsar evaluaciones como fuente proactiva de informacion</p>
+      </div>
+      <div class="card-risk">
+        <h4>No respuesta del denunciado</h4>
+        <p>Mitigacion: Plazos claros y proceder con evidencia disponible</p>
+      </div>
+      <div class="card-risk">
+        <h4>Falta de colaboracion del Comite de Nombramientos</h4>
+        <p>Mitigacion: Establecer canal directo desde el inicio</p>
+      </div>
+    </div>
+    <div>
+      <div class="card-risk">
+        <h4>Conflicto de interes de un miembro de la Comision</h4>
+        <p>Mitigacion: Protocolo de inhibicion obligatoria</p>
+      </div>
+      <div class="card-risk">
+        <h4>Saturacion de casos</h4>
+        <p>Mitigacion: Solicitar apoyo adicional a la JD si es necesario</p>
+      </div>
+    </div>
+  </div>
+  <span class="footer-slide">Comision Disciplinaria - AJUCI</span>
+</div>
+
+<!-- SLIDE 10: CRONOGRAMA -->
+<div class="slide slide-dark">
   <h2>Cronograma</h2>
   <div class="grid-2">
     <div>
-      <h3>Fase 1: Puesta en marcha (Mes 1-2)</h3>
-      <table>
+      <h3 style="color: #e94560;">Fase 1: Puesta en marcha (Mes 1-2)</h3>
+      <table class="dark-table">
         <tr><th>Semana</th><th>Actividad</th></tr>
         <tr><td>1</td><td>Instalacion + correo oficial</td></tr>
         <tr><td>2</td><td>Formularios + automatizacion</td></tr>
@@ -366,8 +454,8 @@ tr:nth-child(even) { background: #f8f9fa; }
       </table>
     </div>
     <div>
-      <h3>Fase 2: Operacion regular (Mes 3+)</h3>
-      <table>
+      <h3 style="color: #e94560;">Fase 2: Operacion regular (Mes 3+)</h3>
+      <table class="dark-table">
         <tr><th>Actividad</th><th>Frecuencia</th></tr>
         <tr><td>Reuniones</td><td>Semanal</td></tr>
         <tr><td>Monitoreo correo</td><td>Diario</td></tr>
@@ -380,28 +468,7 @@ tr:nth-child(even) { background: #f8f9fa; }
   <span class="footer-slide">Comision Disciplinaria - AJUCI</span>
 </div>
 
-<!-- SLIDE 9: HERRAMIENTAS -->
-<div class="slide slide-dark">
-  <h2>Herramientas (costo: $0)</h2>
-  <div class="grid-3">
-    <div class="card-dark">
-      <h4>Gmail</h4>
-      <p>Correo oficial + sub-correos + respuestas automaticas + filtros</p>
-    </div>
-    <div class="card-dark">
-      <h4>Google Forms</h4>
-      <p>Formulario de denuncia + 3 formularios de evaluacion</p>
-    </div>
-    <div class="card-dark">
-      <h4>Google Sheets</h4>
-      <p>Registro de casos + evaluaciones + nombramientos</p>
-    </div>
-  </div>
-  <p style="text-align: center; margin-top: 40px; font-size: 1.1em; opacity: 0.8;">Todo el sistema funciona con herramientas gratuitas de Google</p>
-  <span class="footer-slide">Comision Disciplinaria - AJUCI</span>
-</div>
-
-<!-- SLIDE 10: CIERRE -->
+<!-- SLIDE 11: CIERRE -->
 <div class="slide slide-cover">
   <h2>COMISION DISCIPLINARIA</h2>
   <h1>AJUCI</h1>
