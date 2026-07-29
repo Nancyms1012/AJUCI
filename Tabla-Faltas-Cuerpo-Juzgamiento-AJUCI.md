@@ -27,7 +27,7 @@
 | 7 | Arbitrar una prueba sin haber sido designado por el ente encargado de los nombramientos. | Reglamento Disciplinario FECOCI Art. 20, 2 g) | Misma escala de faltas leves (Art. 23) |
 | 8 | No adelantar las clasificaciones diarias o generales de una prueba, cuando asi le sea exigido por el comite organizador de una prueba. | Reglamento Disciplinario FECOCI Art. 20, 2 h) | Misma escala de faltas leves (Art. 23) |
 | 9 | No asistir a los cursos o reuniones a los que sea convocado por los organizadores, AJUCI o la FECOCI. | Reglamento Disciplinario FECOCI Art. 20, 2 i) | Misma escala de faltas leves (Art. 23) |
-| 10 | No portar el uniforme oficial en el evento asignado. | Protocolo FECOCI Art. 10 f) | No estipulada en reglamentos (aplicar Art. 23 por analogia) |
+| 10 | No portar el uniforme oficial vigente en el evento asignado. Incluye el uso de uniformes de eventos o ediciones anteriores que no correspondan al uniforme oficial actual. | Protocolo FECOCI Art. 10 f) | No estipulada en reglamentos (aplicar Art. 23 por analogia) |
 
 **Sanciones para faltas leves (Art. 23):** Apercibimiento, amonestacion publica, suspension de licencia e inhabilitacion de hasta un mes, privacion de los derechos de asociacion por igual tiempo, multa de un decimo de salario base hasta un salario base.
 

@@ -92,7 +92,7 @@ h) No adelantar las clasificaciones diarias o generales de una prueba, cuando as
 i) No asistir a los cursos o reuniones a los que sea convocado por los organizadores, AJUCI o la FECOCI.
 (Fundamento: Reglamento Disciplinario FECOCI Art. 20, 2° i) / Protocolo FECOCI Art. 10 inciso e)
 
-j) No portar el uniforme oficial completo o portarlo en estado inadecuado durante un evento.
+j) No portar el uniforme oficial vigente completo o portarlo en estado inadecuado durante un evento. Se entiende como uniforme vigente el aprobado por el Comité de Nombramientos para el periodo en curso. Queda prohibido el uso de uniformes de eventos, ediciones o periodos anteriores.
 (Fundamento: Protocolo FECOCI Art. 10 inciso f)
 
 ### Artículo 7: Faltas graves
