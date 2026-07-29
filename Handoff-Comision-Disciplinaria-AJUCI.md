@@ -229,7 +229,9 @@ Cada sub-correo tiene un filtro en Gmail que responde automaticamente con una pl
 - [x] Datos historicos de nombramientos consolidados
 - [x] Filtros de Gmail verificados
 - [x] Script acuse de recibo evaluacion equipo
-- [x] Presentacion ejecutiva HTML (11 slides)
+- [x] Presentacion ejecutiva HTML (12 slides - incluye solicitudes a JD FECOCI)
+- [x] Documento de puntos para reunion con JD FECOCI (corregido y subido)
+- [x] Puntos de reunion integrados al Protocolo, Plan de Trabajo y Presentacion
 
 ### Pendientes:
 - [ ] Crear formulario evaluacion comisario principal en Google Forms (con logica condicional)
@@ -237,6 +239,7 @@ Cada sub-correo tiene un filtro en Gmail que responde automaticamente con una pl
 - [ ] Presentar Plan de Trabajo + Protocolo a Junta Directiva AJUCI
 - [ ] Comunicar a la comunidad (organizadores, miembros, clubes)
 - [ ] Solicitar acceso al registro de disponibilidad
+- [ ] Solicitar informacion de declinaciones y cambios de nombramientos
 - [ ] Primer informe trimestral
 - [ ] Proponer reforma Reglamento Disciplinario (agregar faltas no tipificadas: parcialidad, acoso)
 - [ ] Cruce disponibilidad vs. nombramientos (Fase 2)
