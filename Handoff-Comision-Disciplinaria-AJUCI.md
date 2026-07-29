@@ -235,13 +235,11 @@ Cada sub-correo tiene un filtro en Gmail que responde automaticamente con una pl
 
 ### Pendientes:
 - [ ] Crear formulario evaluacion comisario principal en Google Forms (con logica condicional)
-- [ ] Crear formulario registro de nombramientos en Google Forms
-- [ ] Presentar Plan de Trabajo + Protocolo a Junta Directiva AJUCI
+- [ ] Presentar Plan de Trabajo + Protocolo + Propuesta de Reglamento a Junta Directiva AJUCI
 - [ ] Comunicar a la comunidad (organizadores, miembros, clubes)
 - [ ] Solicitar acceso al registro de disponibilidad
 - [ ] Solicitar informacion de declinaciones y cambios de nombramientos
 - [ ] Primer informe trimestral
-- [ ] Proponer reforma Reglamento Disciplinario (agregar faltas no tipificadas: parcialidad, acoso)
 - [ ] Cruce disponibilidad vs. nombramientos (Fase 2)
 
 ---
