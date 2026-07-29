@@ -131,6 +131,8 @@ Garantizar el cumplimiento de los deberes y la conducta etica del cuerpo de juzg
 | Actividad | Descripcion | Responsable |
 |-----------|-------------|-------------|
 | Solicitud formal de acceso | Solicitar a la Junta Directiva de AJUCI acceso al registro de disponibilidad que maneja la Comision de Nombramientos | Presidente/a de la Comision |
+| Solicitar informacion de declinaciones | Solicitar que la Comision de Nombramientos informe quienes declinan un nombramiento y si presentaron justificacion | Presidente/a de la Comision |
+| Solicitar informacion de cambios | Solicitar que se informe a la Comision Disciplinaria cuando se realice un cambio de personal en los nombramientos | Presidente/a de la Comision |
 | Integracion de datos | Una vez obtenido el acceso, cruzar disponibilidad vs. nombramientos para identificar miembros excluidos | Comision Disciplinaria |
 | Informe de equidad | Generar reporte de quienes estuvieron disponibles pero no fueron nombrados, con frecuencia | Comision Disciplinaria |
 
