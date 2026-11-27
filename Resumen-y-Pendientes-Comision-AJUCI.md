@@ -30,7 +30,7 @@
 ### 3. Formularios de evaluacion (3 creados)
 - Evaluacion del personal de juzgamiento (para organizadores) - con script de acuse de recibo
 - Evaluacion del organizador (para personal de juzgamiento) - con script de acuse de recibo
-- Evaluacion del equipo por el comisario principal (estructura disenada, con secciones repetidas y logica condicional)
+- Evaluacion del equipo por el comisario principal (ya creado en Google Forms, con secciones repetidas y logica condicional)
 
 ### 4. Protocolo de Atencion de Denuncias
 - Redactado y aprobado internamente
@@ -100,7 +100,7 @@
 
 1. **Corregir tildes en documentos Word** - Los archivos Word no tienen tildes. Abrir en Google Docs, corregir y exportar como PDF final.
 
-2. **Formulario de evaluacion del comisario principal a su equipo** - La estructura esta disenada pero falta crearlo en Google Forms con las secciones repetidas y logica condicional ("Tiene otro miembro por evaluar? Si/No").
+2. ~~Formulario de evaluacion del comisario principal a su equipo~~ - Ya creado en Google Forms.
 
 3. **Formulario de registro de nombramientos** - Crear en Google Forms para que la Comision registre los nombramientos de cada evento. Campos: fecha, nombre del evento, modalidad, nombre del miembro, rol asignado.
 
